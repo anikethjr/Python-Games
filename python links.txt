@@ -1,0 +1,24 @@
+Rock Paper Scissors Lizard Spock
+http://www.codeskulptor.org/#user37_Wfx7QbIXfY_2.py 
+
+Guess The Number
+http://www.codeskulptor.org/#user38_uo08FvvAfHDzHub.py
+
+Stopwatch: The Game
+http://www.codeskulptor.org/#user38_ycrVtqnXeq_2.py
+
+Pong
+http://www.codeskulptor.org/#user38_WRrXflH3z1_7.py
+
+Memory
+http://www.codeskulptor.org/#user38_mFo2ewD6hs_1.py
+
+Blackjack
+http://www.codeskulptor.org/#user38_VrxYRJkhux9ZRCp.py
+
+Spaceship
+http://www.codeskulptor.org/#user38_fOTsvgmiKsA5uip.py
+http://www.codeskulptor.org/#user38_fOTsvgmiKsA5uip_0.py
+
+RiceRocks
+http://www.codeskulptor.org/#user38_6h901UJmcB7dkRq.py
